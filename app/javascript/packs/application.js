@@ -9,6 +9,7 @@ import * as ActiveStorage from "@rails/activestorage"
 import "channels"
 import "script.js" //この行を追記
 import 'jquery'
+import "skippr.min"
 
 Rails.start()
 Turbolinks.start()
